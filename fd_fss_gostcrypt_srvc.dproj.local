@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022.12.01 10:51:39.845.pas,C:\Users\krylov_s\Documents\RAD Studio\Projects\Unit6.pas=C:\FSS_client\uFD_fss_srvc.pas</Transaction>
+    <Transaction>2022.12.01 10:51:39.845.dfm,C:\Users\krylov_s\Documents\RAD Studio\Projects\Unit6.dfm=C:\FSS_client\uFD_fss_srvc.dfm</Transaction>
+    <Transaction>2022.12.01 10:52:23.198.dproj,C:\Users\krylov_s\Documents\RAD Studio\Projects\Project6.dproj=C:\FSS_client\fd_fss_gostcrypt_srvc_.dproj</Transaction>
+    <Transaction>2022.12.01 10:54:38.028.dproj,C:\FSS_client\fd_fss_gostcrypt_srvc_.dproj=C:\FSS_client\fd_fss_gostcrypt_srvc.dproj</Transaction>
+    <Transaction>2022.12.22 19:03:10.912.pas,C:\fss-sign\SevenZipVCL.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
